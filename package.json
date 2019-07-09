@@ -1,7 +1,7 @@
 {
   "name": "npm-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning NPM, building RESTful APIs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "dependencies": {
     "mongoose": "^5.6.3",
     "underscore": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamilolaAjayi/npm-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DamilolaAjayi/npm-demo/issues"
+  },
+  "homepage": "https://github.com/DamilolaAjayi/npm-demo#readme"
 }
